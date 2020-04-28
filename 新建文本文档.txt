@@ -2,6 +2,8 @@
 
 修这里修(测试分支修改了内容)改了原内容
 
+主分支新增
+
 echo "# test" >> README.md
 git init
 
