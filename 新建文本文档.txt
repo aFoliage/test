@@ -1,12 +1,9 @@
 测 中间插入 试
 
-
-修这里修改了原内容
-
 echo "# test" >> README.md
 git init
 
-这里新增了内容
+这里新增了(主分支新加内容)内容
 
 git add README.md
 git commit -m "first commit"
