@@ -1,10 +1,13 @@
-测试
+测 中间插入 试
 
 
-修改一
+修这里修改了原内容
 
 echo "# test" >> README.md
 git init
+
+这里新增了内容
+
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/aFoliage/test.git
